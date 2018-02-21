@@ -1,6 +1,5 @@
-# Super App Mobile
-
-Descripcion de la aplicacion, en un texto largo que explique el proposito de la aplicacion.
+# TIMBA SPORTS
+La mejor app para que puedas cristalizar tus palpitos en apuestas de futbol del Campeonato de Primera Divicion de la Asociacion Paraguaya de Futbol. Esta app permite apostar, pagar y efectivizar tus ganancias.
 
 
 # Funcionalidades
